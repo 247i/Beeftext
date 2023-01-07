@@ -1,0 +1,5 @@
+
+.DS_Store
+Data/Backup/*
+Data/log.txt
+Data/comboLastUse.json
