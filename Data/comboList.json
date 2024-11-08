@@ -2515,9 +2515,9 @@
             "description": "",
             "enabled": true,
             "group": "{54141fac-64f2-4c78-a7e6-836a848570ef}",
-            "keyword": "spec",
+            "keyword": "spc",
             "matchingMode": 0,
-            "modificationDateTime": "2023-08-23T23:03:41.999",
+            "modificationDateTime": "2024-11-08T19:10:29.447",
             "name": "spec",
             "snippet": "specifications",
             "uuid": "{be5bc09c-e547-470f-aad2-5452eb9046b3}"
